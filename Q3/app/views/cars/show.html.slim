@@ -1,0 +1,39 @@
+h1
+  | Car Detail
+br
+table.table.table-hover
+  tbody
+    tr
+      td
+        strong
+          | Maker:
+      td
+        = @car.maker
+    tr
+      td
+        strong
+          | Model:
+      td
+        = @car.model
+    tr
+      td
+        strong
+          | Year:
+      td
+        = @car.year
+    tr
+      td
+        strong
+          | Color:
+      td
+        = @car.color
+    tr
+      td
+        strong
+          | Price:
+      td
+        = @car.price
+
+= link_to 'Edit', edit_car_path(@car)
+br
+= link_to 'Back to cars', cars_path

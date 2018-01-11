@@ -1,0 +1,10 @@
+1. Về cơ bản, các tính năng đó là đủ để đăng ký 1 chiếc xe lên và bán rồi, nhưng để tăng nhanh tốc độ bán và có doanh thu tốt hơn, tôi nghĩ chúng ta nên có nhiều spec chi tiết hơn, chẳng hạn như chương trình giảm giá, tặng quà, bổ sung các model để dễ dàng hơn cho việc quản lý cũng như thống kê.
+Hơn thế, 1 chiến lược marketing hợp lý cũng vô cùng quan trọng, nhất là một sản phẩm còn quá mới như của chúng ta. Nếu cần thiết, chúng tôi có 1 đội ngũ kỹ thuật và marketing rất có kinh nghiệm trong việc này, tôi sẽ lên 1 kế hoạch cũng như có 1 bản mô tả chi tiết hơn, tôi cũng nghĩ ngài rất quan tâm đến vấn đề này, đúng không thưa ngài?
+
+2. Theo như tôi thấy, ngài có một số yêu cầu và đề nghị rất hay, tuy nhiên, với vị trí là người có nhiều kinh nghiệm trong những sản phẩm tương tự,
+thì những yêu cầu đó chỉ ở phía backend, và tất nhiên là còn nhiều thứ để bổ sung cho phần này, nhưng theo ý tôi là, một giao diện frontend tốt để tương tác với 
+người dùng là cực kỳ quan trọng, ngài đăng sản phẩm với rất nhiều chi tiết và vô cùng rõ ràng phía backend, nhưng lại không chú trọng frontend, điều này sẽ ảnh hưởng đến chất lượng của website cũng như doanh thu. Vậy ngài có muốn chúng tôi thiết kế luôn cho ngài phần frontend này không? Tất nhiên là ngài có thể đưa ý tưởng, chúng tôi sẽ thảo luận và đưa ra phương án, design tốt nhất theo ý ngài.
+
+3. Công ty chúng tôi đã có kinh nghiệm trong 1 dự án tương tự như request của ngài, nhưng được phát triển nhiều tính năng hay và một trong số đó là tính năng 'AI tự động thống kê và đưa gợi ý dựa trên hàng nghìn website bán car', 
+nó có nhiều phản hồi tích cực và mang lại hiệu quả cao, rất nhiều khách hàng đã đặt hàng sản phẩm từ chúng tôi. Ngài có muốn lắng nghe một số tính năng đó không,
+hoặc chúng tôi có thể soạn thảo cho ngài một spec chi tiết để giới thiệu về chúng, tôi tin ngài có thể hài lòng!
